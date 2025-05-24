@@ -1,0 +1,58 @@
+@media only screen and (max-width:460px ){
+    .acc-container{
+        width: 100vw;
+        height: 100vh;
+        background-color: rgb(230, 227, 227);
+    }
+    .acc-heading{
+        padding: 20px;
+        background-color: white;
+    }
+
+    .personal-details{
+        display: flex;
+        width: 70%;
+        margin: 10px;
+        justify-content: space-evenly;
+    }
+    .personal-details img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+    .acc-details{
+        width: 60px;
+        width: fit-content;
+        height: fit-content;
+        margin-top: -13px;
+    }
+    .acc-details h5{
+        margin-bottom: -15px;
+    }
+    .acc-text{
+        margin: 20px;
+    }
+}
+.acc-container{
+    margin: auto;
+    width: 50%;
+    border-radius: 7px;
+    box-shadow: 0px 0px 2px 0px;
+    margin-top: 100px;
+    padding: 10px;
+}
+.acc-heading{
+    font-size: 20px;
+    padding: 15px;
+}
+.personal-details{
+    display: flex;
+    width: 40%;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+.acc-text{
+    width: 85%;
+    font-size: 18px;
+    margin-left: 20px;
+}

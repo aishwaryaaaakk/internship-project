@@ -1,0 +1,35 @@
+@media only screen and (max-width:460px ){
+    .homepage{
+        margin: auto;
+        margin-top: 100%;
+    }
+    .homeText{
+        margin-left:30px;
+        margin-right: 30%;
+    }
+    .homeText p{
+        font-size: 16px;
+        color: grey;
+    }
+    .btns{
+        width: 100%; 
+    }
+}
+.homepage{
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0px 0px 2px 0px;
+    padding: 20px;
+    border-radius: 7px;
+}
+.homeText{
+    margin-left:30px;
+    margin-right: 30%;
+}
+.homeText p{
+    font-size: 16px;
+    color: grey;
+}
+.btns{
+    width: 100%; 
+}
